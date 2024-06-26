@@ -1,2 +1,2 @@
 # DoubanAnalysis
-As a pivot project
+As a pilot project, catering for study purposes
